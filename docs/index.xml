@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on The Shielding</title>
-    <link>https://theshielding.github.io/docs/</link>
+    <link>https://shielding.world/docs/</link>
     <description>Recent content in Docs on The Shielding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://theshielding.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://shielding.world/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shielding Stories</title>
-      <link>https://theshielding.github.io/docs/stories/</link>
+      <link>https://shielding.world/docs/stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://theshielding.github.io/docs/stories/</guid>
+      <guid>https://shielding.world/docs/stories/</guid>
       <description>Shielding Stories #  Coming soon! 🔮
 Would you like to share your experience of shielding? We&amp;rsquo;d love to hear from you! There&amp;rsquo;s some more information in the Take Part section. Or just drop us a note: theshielding@protonmail.com.</description>
     </item>
     
     <item>
       <title>Worksheet</title>
-      <link>https://theshielding.github.io/docs/worksheet/</link>
+      <link>https://shielding.world/docs/worksheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://theshielding.github.io/docs/worksheet/</guid>
+      <guid>https://shielding.world/docs/worksheet/</guid>
       <description>Worksheet #  Use the prompts from this worksheet to write about your own life while shielding, or to interview someone else about their story.
 Would you like to share your story at The Shielding (anonymously)? We&amp;rsquo;d love to hear from you! You can reach us at: theshielding@protonmail.com.
 Download worksheet as PDF (17 KB)
@@ -31,10 +31,10 @@ Worksheet #  Basics #   When did you start shielding?</description>
     
     <item>
       <title>Take Part</title>
-      <link>https://theshielding.github.io/docs/take-part/</link>
+      <link>https://shielding.world/docs/take-part/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://theshielding.github.io/docs/take-part/</guid>
+      <guid>https://shielding.world/docs/take-part/</guid>
       <description>Take Part #  Are you, or have you been, shielding? Or maybe you know someone who shields? If so, we would love to hear from you! Anonymous stories are welcome. Get in touch: theshielding@protonmail.com.
 How does it work? #  Once we&amp;rsquo;ve received your note:
  Together we&amp;rsquo;ll pick a time and format for a conversation (a.k.a. &amp;lsquo;interview&amp;rsquo;). This can be a (video) call, email, messages or chat&amp;mdash;whatever you&amp;rsquo;re most comfortable with.</description>
@@ -42,10 +42,10 @@ How does it work? #  Once we&amp;rsquo;ve received your note:
     
     <item>
       <title>About</title>
-      <link>https://theshielding.github.io/docs/about/</link>
+      <link>https://shielding.world/docs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://theshielding.github.io/docs/about/</guid>
+      <guid>https://shielding.world/docs/about/</guid>
       <description>About #  The Shielding is run by a small group of people with one thing in common: all of us have been shielding since early on in the current COVID-19 pandemic.
 We started The Shielding in March 2022 out of a sense of bafflement and urgency.
 Bafflement, because it seemed that the outside world had fallen largely into pandemic denialism. Even though in many regions, infections numbers are still intolerably high.</description>
