@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theshielding.github.io/website/docs/stories/</loc>
+    <loc>https://theshielding.github.io/docs/stories/</loc>
   </url><url>
-    <loc>https://theshielding.github.io/website/docs/worksheet/</loc>
+    <loc>https://theshielding.github.io/docs/worksheet/</loc>
   </url><url>
-    <loc>https://theshielding.github.io/website/docs/take-part/</loc>
+    <loc>https://theshielding.github.io/docs/take-part/</loc>
   </url><url>
-    <loc>https://theshielding.github.io/website/docs/about/</loc>
+    <loc>https://theshielding.github.io/docs/about/</loc>
   </url><url>
-    <loc>https://theshielding.github.io/website/categories/</loc>
+    <loc>https://theshielding.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://theshielding.github.io/website/nl/categories/"
+                href="https://theshielding.github.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://theshielding.github.io/website/categories/"
+                href="https://theshielding.github.io/categories/"
                 />
   </url><url>
-    <loc>https://theshielding.github.io/website/docs/</loc>
+    <loc>https://theshielding.github.io/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://theshielding.github.io/website/nl/docs/"
+                href="https://theshielding.github.io/nl/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://theshielding.github.io/website/docs/"
+                href="https://theshielding.github.io/docs/"
                 />
   </url><url>
-    <loc>https://theshielding.github.io/website/</loc>
+    <loc>https://theshielding.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://theshielding.github.io/website/nl/"
+                href="https://theshielding.github.io/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://theshielding.github.io/website/"
+                href="https://theshielding.github.io/"
                 />
   </url><url>
-    <loc>https://theshielding.github.io/website/tags/</loc>
+    <loc>https://theshielding.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://theshielding.github.io/website/nl/tags/"
+                href="https://theshielding.github.io/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://theshielding.github.io/website/tags/"
+                href="https://theshielding.github.io/tags/"
                 />
   </url>
 </urlset>
