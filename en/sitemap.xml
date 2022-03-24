@@ -34,18 +34,6 @@
                 href="https://shielding.world/docs/"
                 />
   </url><url>
-    <loc>https://shielding.world/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://shielding.world/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shielding.world/"
-                />
-  </url><url>
     <loc>https://shielding.world/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +44,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shielding.world/tags/"
+                />
+  </url><url>
+    <loc>https://shielding.world/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://shielding.world/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shielding.world/"
                 />
   </url>
 </urlset>
