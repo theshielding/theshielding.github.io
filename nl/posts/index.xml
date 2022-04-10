@@ -1,47 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Het Schuilen on The Shielding</title>
-    <link>https://shielding.world/nl/</link>
-    <description>Recent content in Het Schuilen on The Shielding</description>
+    <title>Schuilverhalen on The Shielding</title>
+    <link>https://shielding.world/nl/posts/</link>
+    <description>Recent content in Schuilverhalen on The Shielding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shielding.world/nl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Werkblad</title>
-      <link>https://shielding.world/nl/docs/werkblad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shielding.world/nl/docs/werkblad/</guid>
-      <description>Werkblad #  Gebruik deze vragen om over uw eigen leven tijdens het schuilen te schrijven, of om iemand anders te interviewen over hun verhaal.
-Zoudt u graag uw verhaal op Het Schuilen willen delen (anoniem)? Wij horen graag van u! U kunt ons bereiken op: theshielding@protonmail.com.
-Download werkblad als PDF (17 KB)
-Download werkblad as tekst (1 KB)
-Werkblad #  Basis #   Hoe zou u uw situatie vóór de pandemie beschrijven?</description>
-    </item>
-    
-    <item>
-      <title>Doe Mee</title>
-      <link>https://shielding.world/nl/docs/doe-mee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shielding.world/nl/docs/doe-mee/</guid>
-      <description>Doe mee #  Bent u aan het schuilen in verband met de coronaviruspandemie, of heeft u dit gedaan? Of kent u misschien iemand die aan het schuilen is? Dan horen wij graag van u! Anonieme verhalen zijn welkom. Neem contact op: theshielding@protonmail.com.
-Hoe gaat het in z&amp;rsquo;n werk? #  Zodra we uw bericht hebben ontvangen:
- Kiezen we samen een tijd en vorm voor een gesprek (oftewel &amp;lsquo;interview&amp;rsquo;). Dat kan via (video)bellen, email, berichten of chat&amp;mdash;waar u zich het prettigst bij voelt.</description>
-    </item>
-    
-    <item>
-      <title>Over</title>
-      <link>https://shielding.world/nl/docs/over/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shielding.world/nl/docs/over/</guid>
-      <description>Over #  Het Schuilen wordt gerund door een kleine groep mensen die één ding gemeen hebben: we zijn sinds vroeg in de huidige coronaviruspandemie (COVID-19) allemaal aan het schuilen.
-We zijn Het Schuilen begonnen in maart 2022 vanuit een gevoel van verbijstering en urgentie.
-Verbijstering, omdat het erop leek dat de buitenwereld grotendeels in pandemie-ontkenning was vervallen. En dat wanneer in veel regio&amp;rsquo;s het aantal besmettingen nog steeds schrikbarend hoog is.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shielding.world/nl/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verzet tegen een collectieve fantasie</title>
       <link>https://shielding.world/nl/posts/daan-verzet-tegen-een-collectieve-fantasie/</link>
