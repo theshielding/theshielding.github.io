@@ -8,11 +8,8 @@
   </url><url>
     <loc>https://shielding.world/docs/about/</loc>
   </url><url>
-    <loc>https://shielding.world/posts/daan-resistance-to-a-mass-fantasy/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shielding.world/posts/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -24,8 +21,11 @@
                 href="https://shielding.world/posts/"
                 />
   </url><url>
+    <loc>https://shielding.world/posts/helen-the-risk-of-chronic-damage-is-getting-closer/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shielding.world/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -36,6 +36,9 @@
                 hreflang="en"
                 href="https://shielding.world/"
                 />
+  </url><url>
+    <loc>https://shielding.world/posts/daan-resistance-to-a-mass-fantasy/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shielding.world/posts/johanna-I-still-dont-date-look-far-into-the-future/</loc>
     <lastmod>2022-04-09T00:00:00+00:00</lastmod>
