@@ -8,8 +8,11 @@
   </url><url>
     <loc>https://shielding.world/docs/about/</loc>
   </url><url>
+    <loc>https://shielding.world/posts/anohni-consciously-keeping-distance/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shielding.world/posts/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -21,11 +24,8 @@
                 href="https://shielding.world/posts/"
                 />
   </url><url>
-    <loc>https://shielding.world/posts/sophie-someone-else-shouldnt-be-allowed-to-decide-whether-i-get-ill/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shielding.world/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -36,6 +36,9 @@
                 hreflang="en"
                 href="https://shielding.world/"
                 />
+  </url><url>
+    <loc>https://shielding.world/posts/sophie-someone-else-shouldnt-be-allowed-to-decide-whether-i-get-ill/</loc>
+    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shielding.world/posts/helen-the-risk-of-chronic-damage-is-getting-closer/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
